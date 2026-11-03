@@ -1,1 +1,3 @@
 # diccionarios
+
+Catalogo para tienda
